@@ -18,7 +18,7 @@ const some_object = { key: 'value' }
       />
       <h1>Welcome To Scratch Lab</h1>
       <p>
-        Hi there! I&apos;m Uncle Alan and I&apos;m teaching my niece to become a
+        Hi there! I&apos;m Alan and I&apos;m teaching my niece to become a
         computer genius. You&apos;re welcome to tag along if you&apos;d like to
         become one too.
       </p>
